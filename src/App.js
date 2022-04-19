@@ -6,6 +6,7 @@ function App() {
       <h1>hello world</h1>
       <p>itt jart agoston</p>
       <p>itt járt Dorcsi</p>
+      <p>agoston megint itt jart</p>
     </div>
   );
 }
